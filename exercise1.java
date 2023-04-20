@@ -6,13 +6,13 @@ public class exercise1 {
     public static void main (String[] args) throws Exception {
 
         //precondition
-        assert IwillBehave == true: "Good boi";
+        assert IwillBehave == true: "Umayos ka boi";
 
         //method
         College();
 
         //postcondition
-        assert IwillGraduate == true: "Pareh naman";
+        assert IwillGraduate == true: "Pareh naman, ayos buhay";
 
     }
 
