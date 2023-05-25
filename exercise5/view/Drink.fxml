@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="402.0" prefWidth="606.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DrinkController">
+   <children>
+      <ImageView fitHeight="410.0" fitWidth="613.0" layoutX="-6.0" layoutY="-7.0">
+         <image>
+            <Image url="@../../../../../Downloads/background_image.png" />
+         </image>
+      </ImageView>
+      <Text blendMode="OVERLAY" fill="WHITE" layoutX="150.0" layoutY="86.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CLUB" wrappingWidth="300.201171875">
+         <font>
+            <Font name="Arial Black" size="96.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color opacity="0.4885496199131012" />
+               </color>
+            </InnerShadow>
+         </effect>
+      </Text>
+      <Text fill="WHITE" layoutX="251.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lark's">
+         <font>
+            <Font name="Vivaldi Italic" size="42.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="253.0" layoutY="198.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="101.0">
+         <fill>
+            <LinearGradient endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.01949317753314972" green="0.2813515365123749" blue="0.5263158082962036" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.9736841917037964" green="0.42824074625968933" blue="0.5555108785629272" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+         <effect>
+            <DropShadow height="20.0" radius="9.5" width="20.0">
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color>
+            </DropShadow>
+         </effect>
+      </Rectangle>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="373.0" layoutY="198.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="101.0">
+         <fill>
+            <LinearGradient endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.01949317753314972" green="0.2813515365123749" blue="0.5263158082962036" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.9736841917037964" green="0.42824074625968933" blue="0.5555108785629272" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+         <effect>
+            <DropShadow height="20.0" radius="9.5" width="20.0">
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color>
+            </DropShadow>
+         </effect>
+      </Rectangle>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="491.0" layoutY="198.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="101.0">
+         <fill>
+            <LinearGradient endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.01949317753314972" green="0.2813515365123749" blue="0.5263158082962036" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.9736841917037964" green="0.42824074625968933" blue="0.5555108785629272" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+         <effect>
+            <DropShadow height="20.0" radius="9.5" width="20.0">
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color>
+            </DropShadow>
+         </effect>
+      </Rectangle>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="134.0" layoutY="198.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="101.0">
+         <fill>
+            <LinearGradient endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.01949317753314972" green="0.2813515365123749" blue="0.5263158082962036" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.9736841917037964" green="0.42824074625968933" blue="0.5555108785629272" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+         <effect>
+            <DropShadow height="20.0" radius="9.5" width="20.0">
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color>
+            </DropShadow>
+         </effect>
+      </Rectangle>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="16.0" layoutY="198.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="101.0">
+         <fill>
+            <LinearGradient endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.01949317753314972" green="0.2813515365123749" blue="0.5263158082962036" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.9736841917037964" green="0.42824074625968933" blue="0.5555108785629272" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+         <effect>
+            <DropShadow height="20.0" radius="9.5" width="20.0">
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color>
+            </DropShadow>
+         </effect>
+      </Rectangle>
+      <ImageView fitHeight="135.0" fitWidth="136.0" layoutX="-2.0" layoutY="131.0">
+         <image>
+            <Image url="@../../../../../Downloads/soju.png" />
+         </image>
+         <effect>
+            <DropShadow>
+               <color>
+                  <Color opacity="0.580152690410614" />
+               </color></DropShadow>
+         </effect>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+      </ImageView>
+      <ImageView fitHeight="125.0" fitWidth="82.0" layoutX="144.0" layoutY="139.0">
+         <image>
+            <Image url="@../../../../../Downloads/sanmig_light.png" />
+         </image>
+         <effect>
+            <DropShadow>
+               <color>
+                  <Color opacity="0.5458015203475952" />
+               </color>
+            </DropShadow>
+         </effect>
+      </ImageView>
+      <Text blendMode="OVERLAY" fill="WHITE" layoutX="226.0" layoutY="122.0" opacity="0.98" strokeType="OUTSIDE" strokeWidth="0.0" text="CHOOSE A DRINK">
+         <font>
+            <Font name="Arial Bold" size="17.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="125.0" fitWidth="149.0" layoutX="229.0" layoutY="139.0">
+         <image>
+            <Image url="@../../../../../Downloads/gsm_blue.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="135.0" fitWidth="165.0" layoutX="341.0" layoutY="134.0">
+         <image>
+            <Image url="@../../../../../Downloads/redhorse.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="135.0" fitWidth="117.0" layoutX="483.0" layoutY="134.0">
+         <image>
+            <Image url="@../../../../../Downloads/alfonso.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" layoutX="43.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SOJU">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="150.0" layoutY="285.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SANMIG LIGHT" textAlignment="CENTER" wrappingWidth="74.15283203125">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="266.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="G.S.M BLUE" textAlignment="CENTER" wrappingWidth="74.15283203125">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="386.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="RED HORSE" textAlignment="CENTER" wrappingWidth="74.15283203125">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="501.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ALFONSO" textAlignment="CENTER" wrappingWidth="82.0">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font>
+      </Text>
+      <Button fx:id="btn1" layoutX="41.0" layoutY="332.0" mnemonicParsing="false" onAction="#showInfo" text="Choose" />
+      <Button fx:id="btn2" layoutX="159.0" layoutY="332.0" mnemonicParsing="false" onAction="#showInfo" text="Choose" />
+      <Button fx:id="btn3" layoutX="275.0" layoutY="332.0" mnemonicParsing="false" onAction="#showInfo" text="Choose" />
+      <Button fx:id="btn4" layoutX="396.0" layoutY="332.0" mnemonicParsing="false" onAction="#showInfo" text="Choose" />
+      <Button fx:id="btn5" layoutX="514.0" layoutY="332.0" mnemonicParsing="false" onAction="#showInfo" text="Choose" />
+   </children>
+</AnchorPane>
